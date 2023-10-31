@@ -32,7 +32,3 @@ Certifique-se de ter o Node.js instalado em seu sistema.
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, solicitações de pull e propor melhorias.
-
-## Licença
-
-Este projeto está sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
